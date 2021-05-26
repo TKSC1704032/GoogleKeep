@@ -1,0 +1,9 @@
+.card{
+    box-sizing: border-box;
+    padding: 5px;
+    border: none;
+}
+.card-body{
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+}

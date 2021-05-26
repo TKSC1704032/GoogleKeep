@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1.header {
+  background-color: rgb(21, 255, 0);
+  margin-bottom: 0px;
+}
+.header > span {
+  padding: 4px;
+  display: block;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  text-shadow: 2px 2px 4px wheat;
+  background-image:url("LaZF.gif") ;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
